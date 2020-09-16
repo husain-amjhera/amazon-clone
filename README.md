@@ -1,5 +1,9 @@
 ﻿# Amazon-clone
 
+#### _Take a look:_
+
+![clone image](https://github.com/husain-amjhera/amazon-clone/blob/master/images/amazon-clone.PNG?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
